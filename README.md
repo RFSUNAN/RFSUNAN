@@ -1,6 +1,9 @@
 <img src="assets/banner.jpg" width="100%" alt="Illustrated green windows overlooking sunlit trees and foliage.">
 
-<img src="assets/hero.svg" width="100%" alt="Faiaj Rahman Sunan. Computer Science undergraduate and aspiring software engineer. Java and JavaFX; interests in AI, cloud and backend development.">
+<picture>
+  <source media="(max-width:640px)" srcset="assets/hero-mobile.svg">
+  <img src="assets/hero.svg" width="100%" alt="Faiaj Rahman Sunan. Computer Science undergraduate and aspiring software engineer. Java and JavaFX; interests in AI, cloud and backend development.">
+</picture>
 
 Computer Science undergraduate at Brunel University of London and aspiring software engineer. I build with Java and JavaFX, with interests in AI, cloud computing and backend development.
 
@@ -31,8 +34,10 @@ Contributed to the Value Propositions and Buy-in and Support sections of the Mis
 
 BSc (Hons) Computer Science with Work Placement, Brunel University of London — expected graduation June 2029. Seeking a 2027 industrial placement.
 
-<img src="assets/footer.svg" width="100%" alt="Ideas into useful software. Faiaj Rahman Sunan — connect on LinkedIn.">
+<picture>
+  <source media="(max-width:640px)" srcset="assets/footer-mobile.svg">
+  <img src="assets/footer.svg" width="100%" alt="Ideas into useful software. Faiaj Rahman Sunan — connect on LinkedIn.">
+</picture>
 
 [Connect on LinkedIn](https://www.linkedin.com/in/rf-sunan/)
 
-<sub>Design adapted from The H Series GitHub Starter by Ameer Hamza. Icon attribution: Devicon (MIT); see LICENSE and assets/DEVICON-LICENSE.txt.</sub>
